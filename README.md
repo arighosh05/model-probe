@@ -14,7 +14,7 @@ a model probe for reasoners
 
 ## About
 
-### Architecture
+## Architecture
 
 <p align="center">
   <img src="./high_level_diagram.png" alt="image" width="500">
