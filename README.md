@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="./obsidian_logo.png" alt="logo" width="100">
-</p>
 
 <p align="center">
-  <b>Model Probe</b>
-  ------------------
-  a model probe for reasoners
+<b>Model Probe</b>
+------------------
+a model probe for reasoners
 </p>
 
 <p align="center">
