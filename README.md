@@ -1,9 +1,10 @@
+<div align="center">
 
-<p align="center">
-<b>Model Probe</b>
-------------------
+  <b>Model Probe</b>
+---------------------------
 a model probe for reasoners
-</p>
+
+</div>
 
 <p align="center">
   <a href="https://opensource.org/license/0bsd">
