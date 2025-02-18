@@ -81,6 +81,24 @@ python script.py "your-prompt-here"
 
 ## Notes
 
+The following points pertinent to `script.py` bear mentioning. 
+
+- Configure email settings.
+
+  Set `EMAIL_ENABLED` to `True` to activate email alerts. Provide `EMAIL_SENDER` and `EMAIL_PASSWORD`. Customize alert recipients in `EMAIL_RECIPIENTS`. Configure `EMAIL_SMTP_SERVER` and `EMAIL_SMTP_PORT` appropriately. Critical alerts will be sent for high-concern classifications and Warning alerts will be sent for medium-concern classifications.
+
+- Customize word list.
+
+  Modify word lists in `HARMFUL_WORDS`, `ILLEGAL_WORDS`, and `MANIPULATION_WORDS` to match your use case. These word lists fuel the rule-based system.
+
+- Verify file structure.
+
+  The script creates `data/ directory` for embedding cache storage and creates `logs/ directory` for detailed analysis logs, saving each analysis as timestamped JSON files.
+
+- Adjust anomaly detection.
+
+  Modify anomaly detection parameters in `initialize_anomaly_detection()`. First-time use will have limited anomaly detection until more samples are collected. Accuracy increases after processing at least 10 samples.
+
 ## Meta
 
 Aritra Ghosh – aritraghosh543@gmail.com
