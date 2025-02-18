@@ -21,6 +21,8 @@
 
 ## Architecture
 
+The high-level architecture of the model probe is as follows. 
+
 <p align="center">
   <img src="./high_level_diagram.png" alt="image" width="500">
 </p>
