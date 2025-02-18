@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <a href="https://opensource.org/license/0bsd">
+  <a href="https://opensource.org/license/unlicense">
     <img src="https://img.shields.io/badge/License-The Unlicense-black.svg" alt="License: The Unlicense">
   </a>
 </p>
