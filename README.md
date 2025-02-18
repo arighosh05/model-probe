@@ -27,6 +27,32 @@
 
 ## Installation
 
+1. Download [Ollama](https://ollama.com/download).
+   
+2. Verify that Ollama is working.
+   
+```
+ollama --version
+```
+
+3. Download a DeepSeek model of suitable size.
+
+```
+ollama pull deepseek-r1:8b
+```
+
+4. Initialize the model locally.
+
+```
+ollama run deepseek-r1:8b
+```
+
+5. Run `script.py` by installing the following dependencies.
+
+```
+pip install ollama nltk sentence-transformers scikit-learn
+```
+
 ## Notes
 
 ## Meta
