@@ -39,7 +39,7 @@ The anomaly detection System serves as the pattern recognition backbone of the m
 
 The meta-classifier serves as the decision-making brain of Model Probe, synthesizing diverse signals into a unified assessment and actionable classification. It combines outputs from sentiment analysis, rule-based detection, and anomaly detection with appropriate weighting to reflect their relative importance to produce an aggregated result that is gated against carefully calibrated thresholds to map numerical scores to meaningful classification categories. This approach balances **sensitivity** with **specificity**, providing a reliable foundation for the alerting system that follows.
 
-The alerting system form the action layer of the model probe, incorporating tiered alert levels, complete context inclusion, and permanent audit trail, to transform analytical insights into timely notifications for human review when necessary.
+The alerting system form the action layer of the model probe, incorporating tiered alert levels, complete context inclusion, and permanent audit trail to transform analytical insights into timely notifications for human review when necessary.
 
 
 ## Installation
