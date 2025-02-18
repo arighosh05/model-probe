@@ -65,7 +65,7 @@ python script.py "your-prompt-here"
 
 Aritra Ghosh – aritraghosh543@gmail.com
 
-Distributed under the 0BSD license. See `LICENSE` for more information.
+Distributed under the MIT license. See `LICENSE` for more information.
 
 [https://github.com/arighosh05/](https://github.com/arighosh05/)
 
