@@ -13,13 +13,13 @@
 
 <p align="center">
   <a href="https://opensource.org/license/0bsd">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+    <img src="https://img.shields.io/badge/License-The Unlicense-black.svg" alt="License: The Unlicense">
   </a>
 </p>
 
 ## About
 
-In an era where algorithms shape policies, headlines, and lives, understanding *how* a machine arrives at its conclusions is more than a technical curiosity—it is a moral imperative. Driven by this belief, **Model Probe** seeks to pull back the curtain on a system’s internal thought processes, highlighting subtle emotional cues, detecting questionable reasoning patterns, and ensuring alignment with ethical standards. The hope is that through such methodical observations, via *probing* the *model*, we might bridge the ontological gap between human and artificial reasoning. This project serves as an existential commitment to maintaining human agency in a world of distributed cognition, and hopes to inspire future work towards more ethical and transparent machine intelligence.
+In an era where algorithms shape policies, headlines, and lives, understanding *how* a machine arrives at its conclusions is more than a technical curiosity—it is a moral imperative. Driven by this belief, **Model Probe** seeks to pull back the curtain on a system’s internal thought processes, highlighting subtle emotional cues, detecting questionable reasoning patterns, and ensuring alignment with ethical standards. The hope is that through such methodical observations, that is, via *probing* the *model*, we might bridge the ontological gap between human and artificial reasoning. This project serves as an existential commitment to maintaining human agency in a world of distributed cognition, and hopes to inspire future work towards more ethical and transparent machine intelligence.
 
 
 ## Architecture
@@ -85,7 +85,7 @@ python script.py "your-prompt-here"
 
 Aritra Ghosh – aritraghosh543@gmail.com
 
-Distributed under the MIT license. See `LICENSE` for more information.
+Distributed under the The Unlicense license. See `LICENSE` for more information.
 
 [https://github.com/arighosh05/](https://github.com/arighosh05/)
 
