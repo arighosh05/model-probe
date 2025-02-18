@@ -47,10 +47,16 @@ ollama pull deepseek-r1:8b
 ollama run deepseek-r1:8b
 ```
 
-5. Run `script.py` by installing the following dependencies.
+5. Install the following dependencies.
 
 ```
 pip install ollama nltk sentence-transformers scikit-learn
+```
+
+6. Run `script.py`.
+
+```
+python script.py "your-prompt-here"
 ```
 
 ## Notes
