@@ -19,6 +19,9 @@
 
 ## About
 
+In an era where algorithms shape policies, headlines, and lives, understanding *how* a machine arrives at its conclusions is more than a technical curiosity—it is a moral imperative. Driven by this belief, **Model Probe** seeks to pull back the curtain on a system’s internal thought processes, highlighting subtle emotional cues, detecting questionable reasoning patterns, and ensuring alignment with ethical standards. The hope is that through such methodical observations, via *probing* the *model*, we might bridge the ontological gap between human and artificial reasoning. This project serves as an existential commitment to maintaining human agency in a world of distributed cognition, and hopes to inspire future work towards more ethical and transparent machine intelligence.
+
+
 ## Architecture
 
 The architecture of the model probe is designed to be modular and adaptable, making it easily generalizable across different reasoning systems.
