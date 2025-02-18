@@ -3,13 +3,13 @@
 </p>
 
 
-<p align="center">
+<div align="center">
   <b>Model Probe</b>
   a model probe for reasoners
   <a href="https://opensource.org/license/0bsd">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
-</p>
+</div>
 
 ## About
 
