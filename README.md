@@ -83,6 +83,10 @@ python script.py "your-prompt-here"
 
 The following points pertinent to `script.py` bear mentioning. 
 
+- Ensure model consistency.
+
+  Adjust the model that `script.py` via the `model` variable in Line 480.
+
 - Configure email settings.
 
   Set `EMAIL_ENABLED` to `True` to activate email alerts. Provide `EMAIL_SENDER` and `EMAIL_PASSWORD`. Customize alert recipients in `EMAIL_RECIPIENTS`. Configure `EMAIL_SMTP_SERVER` and `EMAIL_SMTP_PORT` appropriately. Critical alerts will be sent for high-concern classifications and Warning alerts will be sent for medium-concern classifications.
