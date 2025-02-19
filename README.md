@@ -85,7 +85,7 @@ The following points pertinent to `script.py` bear mentioning.
 
 - Ensure model consistency.
 
-  Adjust the model that `script.py` via the `model` variable in Line 480.
+  Adjust the model that `script.py` runs via the `model` variable in Line 480.
 
 - Configure email settings.
 
